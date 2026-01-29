@@ -4,8 +4,6 @@
 
 I’m a **Computer Science student majoring in Application Development** with a strong interest in **C# development**, **backend systems**, and **game-based technologies**. I enjoy building systems that work in real time, whether it’s backend logic for applications or multiplayer mechanics and AI for games.
 
-I’m currently looking for internships in **Junior Backend Developer**, **C# Developer**, or **Game Systems Developer** roles where I can contribute to solid system design while continuing to grow as a developer.
-
 ## 🧠 What I Work On
 
 ### 🔹 Backend Development
