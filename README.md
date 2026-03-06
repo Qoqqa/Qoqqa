@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Ricardo Jose L. Colarina
+# Hi, I'm Ricardo Jose L. Colarina
 
 ## C# Developer | Backend Systems | Game-Based Systems
 
 I’m a **Computer Science student majoring in Application Development** with a strong interest in **C# development**, **backend systems**, and **game-based technologies**. I enjoy building systems that work in real time, whether it’s backend logic for applications or multiplayer mechanics and AI for games.
 
-## 🧠 What I Work On
+## What I Work On
 
 ### 🔹 Backend Development
 
@@ -15,7 +15,7 @@ I’m a **Computer Science student majoring in Application Development** with a 
 
 **Tech:** C#, PostgreSQL, Supabase, Node.js, REST APIs, JSON
 
-### 🔹 Game Development & Systems
+### Game Development & Systems
 
 * Multiplayer systems and state synchronization
 * Game AI using Behavior Trees
@@ -24,7 +24,7 @@ I’m a **Computer Science student majoring in Application Development** with a 
 
 **Tech:** C# (Unity), Photon PUN 2, Perlin & Fractal Noise
 
-## 🛠 Skills & Tools
+## Skills & Tools
 
 * **Languages:** C#, C++, Python, Java, HTML, CSS
 * **Databases:** PostgreSQL, MySQL
