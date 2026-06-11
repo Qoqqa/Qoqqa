@@ -6,7 +6,7 @@ I’m a **Computer Science student majoring in Application Development** with a 
 
 ## What I Work On
 
-### 🔹 Backend Development
+### Backend Development
 
 * RESTful API design and implementation
 * Real-time systems and backend logic
@@ -33,9 +33,9 @@ I’m a **Computer Science student majoring in Application Development** with a 
 
 ---
 
-## 📫 Let’s Connect
+## Let’s Connect
 
-* 📧 Email: [rjcolarina@gmail.com](mailto:rjcolarina@gmail.com)
-* 💼 LinkedIn: *https://www.linkedin.com/in/ricardo-jose-colarina-0b9117334/*
+* Email: [rjcolarina@gmail.com](mailto:rjcolarina@gmail.com)
+* LinkedIn: *https://www.linkedin.com/in/ricardo-jose-colarina-0b9117334/*
 
 I’m always open to learning, collaborating, and building meaningful systems—whether for applications or games. Thanks for checking out my work!
