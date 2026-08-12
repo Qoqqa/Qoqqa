@@ -1,41 +1,36 @@
 # Hi, I'm Ricardo Jose L. Colarina
 
-## C# Developer | Backend Systems | Game-Based Systems
+## Software Developer | C# | Backend Development
 
-I’m a **Computer Science student majoring in Application Development** with a strong interest in **C# development**, **backend systems**, and **game-based technologies**. I enjoy building systems that work in real time, whether it’s backend logic for applications or multiplayer mechanics and AI for games.
+I’m a Computer Science graduate majoring in Application Development, currently working as an Associate Software Developer at Sean-G Software. I focus on building backend services, APIs, and database-driven applications using C# and other development technologies.
 
 ## What I Work On
 
-### Backend Development
+### Software & Backend Development
 
-* RESTful API design and implementation
-* Real-time systems and backend logic
-* Database design and management
-* Scalable and maintainable server-side architecture
+* Backend services and RESTful APIs
+* Database design and integration
+* Application logic and system architecture
+* Real-time data and server-side systems
 
-**Tech:** C#, PostgreSQL, Supabase, Node.js, REST APIs, JSON
+**Tech:** C#, .NET, Python, PHP, PostgreSQL, Supabase, MySQL, REST APIs
 
-### Game Development & Systems
+### Game & Real-Time Systems
 
-* Multiplayer systems and state synchronization
-* Game AI using Behavior Trees
-* Procedural map and world generation
-* Gameplay and systems programming
+I also work on game-based projects involving multiplayer networking, synchronization, AI, and procedural systems.
 
-**Tech:** C# (Unity), Photon PUN 2, Perlin & Fractal Noise
+**Tech:** C#, Unity, Photon PUN 2, Behavior Trees, Perlin Noise
 
 ## Skills & Tools
 
-* **Languages:** C#, C++, Python, Java, HTML, CSS
-* **Databases:** PostgreSQL, MySQL
-* **Tools:** Git/GitHub, Docker, Postman
-* **Concepts:** OOP, Agile/Scrum, Software Architecture, Real-Time Systems
+* **Languages:** C#, C++, Python, Java, PHP, JavaScript, HTML, CSS
+* **Databases:** PostgreSQL, MySQL, Supabase
+* **Tools:** Git, GitHub, Docker, Postman
+* **Concepts:** OOP, Software Architecture, REST APIs, Agile/Scrum, Real-Time Systems
 
----
-
-## Let’s Connect
+## Connect
 
 * Email: [rjcolarina@gmail.com](mailto:rjcolarina@gmail.com)
-* LinkedIn: *https://www.linkedin.com/in/ricardo-jose-colarina-0b9117334/*
+* LinkedIn: https://www.linkedin.com/in/ricardo-jose-colarina-0b9117334/
 
-I’m always open to learning, collaborating, and building meaningful systems—whether for applications or games. Thanks for checking out my work!
+I’m interested in building practical software, learning new technologies, and working on systems that solve real problems.
